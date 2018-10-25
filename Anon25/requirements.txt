@@ -1,1 +1,6 @@
 Flask<1
+numpy == 1.15.3
+pandas == 0.23.4
+xport == 2.0.2
+sas7bdat == 2.1.1
+
